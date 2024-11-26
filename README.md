@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💻 Hello! I'm Thành 👋
 
-<!--
-**thanhdo1110/thanhdo1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+> Nothing special. <br>
+> Passion: *Making Money*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dothanh1110&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dothanh1110&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contact Me
+📧 Email: thanhtrungdo1110@dothanh1110.site <br>
+🌐 BioLink: [Web](https://bio.ctdotech.tech/dothanh1110)
+
+---
+
+
